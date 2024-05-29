@@ -5,7 +5,13 @@ Para executá-lo, clone o repositório em sua máquina local:
 git clone https://github.com/juniorsohn/trabTec
 ```
 
-Navegue até o diretório clonado e lá dentro, rode a aplicação com:
+**ALTERNATIVAMENTE**, você pode simplesmente utilizar o arquivo comprimido ``TrabTecGilson.tar.gz`` para execução e retorná-lo à sua forma original utilizando:
+
+```
+tar -xzvf trabTecGilson.tar.gz
+```
+
+Navegue até o diretório criado e lá dentro, rode a aplicação com:
 ```
 python3 main.py
 ```

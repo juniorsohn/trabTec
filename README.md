@@ -14,11 +14,6 @@ Para alterar entradas a serem processadas, navegue até a linha ``298`` do códi
 ```
 with open("<SeuNomeDeArquivo>.extensão", "r") as arquivo_in:
 ```
-E faça a alteração conforme mostrado acima. Por fim, execute o código com o comando:
-
-```
-python3 main.py
-```
 
 Ao final da execução, o código irá gerar um arquivo ``output.txt``, contendo uma aplicação modificada para execução no simulador https://morphett.info/turing/turing.html. Basta colar o conteúdo do arquivo ``output.txt`` na caixa do simulador e executar.
 
